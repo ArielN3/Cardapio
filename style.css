@@ -4,7 +4,7 @@ body{
     /* Centraliza o texto no corpo da página */
     background-color: rgb(58, 58, 58); 
     /* Define a cor de fundo do corpo da página como um tom de cinza escuro */
-    background-image:url(/img/fundo.jfif); 
+    background-image:url(fundo.jfif); 
     /* Define uma imagem de fundo para o corpo da página */
 }
 
