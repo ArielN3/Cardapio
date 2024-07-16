@@ -17,7 +17,7 @@ table{
     /* Define o tamanho da fonte do texto dentro das tabelas como 16px */
 }
 
-h1{
+h2{
     font-size: 1.4cm;
     /* Define o tamanho da fonte do título h1 */
     color: rgb(243, 220, 176);
@@ -27,7 +27,7 @@ h1{
     text-decoration: underline;
     /* Adiciona um sublinhado ao texto do título h1 */
 }
-h2{
+h3{
     font-size: 0.8cm;
     /* Define o tamanho da fonte do título h1 */
     color: rgb(243, 220, 176);
@@ -150,6 +150,6 @@ p{
 .zap{
     text-align: center;
     /* Centraliza o texto na classe "zap" */
-    font-size: 22px;
+    font-size: 18px;
     /* Define o tamanho da fonte do texto na classe "zap" como 22px */
 }
