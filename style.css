@@ -1,0 +1,155 @@
+
+body{
+    text-align: center;
+    /* Centraliza o texto no corpo da página */
+    background-color: rgb(58, 58, 58); 
+    /* Define a cor de fundo do corpo da página como um tom de cinza escuro */
+    background-image:url(/img/fundo.jfif); 
+    /* Define uma imagem de fundo para o corpo da página */
+}
+
+table{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* Define a família de fontes para o texto dentro das tabelas */
+    color: rgb(221, 218, 218);
+    /* Define a cor do texto dentro das tabelas como um tom claro de cinza */
+    font-size: 16px;
+    /* Define o tamanho da fonte do texto dentro das tabelas como 16px */
+}
+
+h1{
+    font-size: 1.4cm;
+    /* Define o tamanho da fonte do título h1 */
+    color: rgb(243, 220, 176);
+    /* Define a cor do texto do título h1 como um tom claro de dourado */
+    font-family: MV Boli, Tahoma, sans-serif;
+    /* Define a família de fontes para o título h1 */
+    text-decoration: underline;
+    /* Adiciona um sublinhado ao texto do título h1 */
+}
+h2{
+    font-size: 0.8cm;
+    /* Define o tamanho da fonte do título h1 */
+    color: rgb(243, 220, 176);
+    /* Define a cor do texto do título h1 como um tom claro de dourado */
+    font-family: MV Boli, Tahoma, sans-serif;
+    /* Define a família de fontes para o título h1 */
+    text-decoration: underline;
+    /* Adiciona um sublinhado ao texto do título h1 */
+}
+header{
+    background-color: rgba(12, 8, 0, 0.431);
+    /* Define a cor de fundo do cabeçalho como uma cor escura semi-transparente */
+    border-radius: 1000px;    
+    /* Define um grande raio de borda, tornando as bordas do cabeçalho extremamente arredondadas */
+    box-shadow: 0 0 20px rgba(246, 244, 244, 0.525);
+    /* Adiciona uma sombra ao redor do cabeçalho com uma cor clara semi-transparente */
+}
+
+#cardapio{
+    background-color: rgba(7, 7, 7, 0.47);
+    /* Define a cor de fundo da divisão com o ID "cardapio" como uma cor escura semi-transparente */
+    border-radius: 1000px;    
+    /* Define um grande raio de borda, tornando as bordas da divisão extremamente arredondadas */
+    box-shadow: 0 0 20px rgba(17, 16, 16, 0.525);
+    /* Adiciona uma sombra ao redor da divisão com uma cor escura semi-transparente */
+}
+
+.cerva{
+    font-weight: bolder;    
+    /* Define o peso da fonte como mais grosso para o texto da classe "cerva" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "cerva" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "cerva" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "cerva" */
+}
+.baldegrande{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "baldegrande" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "baldegrande" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "baldegrande" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "baldegrande" */
+}
+
+.baldepequeno{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "baldepequeno" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "baldepequeno" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "baldepequeno" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "baldepequeno" */
+}
+
+.combosw{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "combosw" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "combosw" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "combosw" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "combosw" */
+}
+
+.combosv{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "combosv" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "combosv" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "combosv" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "combosv" */
+}
+
+.combog{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "combog" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "combog" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "combog" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "combog" */
+}
+
+.doses{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "doses" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "doses" */
+    text-shadow: 0 0 0.7em red;
+    /* Adiciona uma sombra vermelha ao texto da classe "doses" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "doses" */
+}
+
+.outros{
+    font-weight: bolder;
+    /* Define o peso da fonte como mais grosso para o texto da classe "outros" */
+    color: black;
+    /* Define a cor do texto como preto para a classe "outros" */
+    text-shadow: 0 0 0.7em rgb(255, 0, 0);
+    /* Adiciona uma sombra vermelha ao texto da classe "outros" */
+    background-color: rgb(253, 191, 47);
+    /* Define a cor de fundo como um tom de amarelo para a classe "outros" */
+}
+
+p{
+    color: rgba(240, 248, 255, 0.596);
+    /* Define a cor do texto dos parágrafos como uma cor clara semi-transparente */
+}
+
+.zap{
+    text-align: center;
+    /* Centraliza o texto na classe "zap" */
+    font-size: 22px;
+    /* Define o tamanho da fonte do texto na classe "zap" como 22px */
+}
